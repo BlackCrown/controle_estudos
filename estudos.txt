@@ -8,4 +8,3 @@ GitHub:
 VS Code: 
     - integração com Git
     - controle de versão
-Git: Erro Proposital
